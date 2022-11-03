@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "iphone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "good",
+      "date": "2022-10-04T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 52222,
+      "comment": "yummy",
+      "date": "2022-10-06T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "onion",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 150,
+      "comment": "avg",
+      "date": "2022-10-25T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "tv",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 25000,
+      "comment": "suprb",
+      "date": "2022-10-12T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "tomato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "fresh",
+      "date": "2022-10-31T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
